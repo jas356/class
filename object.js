@@ -6,7 +6,7 @@ const shirt1 = {
     like: true 
 }
 
-//bracket notation
+//bracket notati
 const shirtsize = shirt1 ["size"] 
 const shirtQuantity = shirt1.quantity
 const shirtColor = shirt1.color
